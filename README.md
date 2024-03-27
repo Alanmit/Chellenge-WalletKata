@@ -8,9 +8,10 @@ Api Rest creada con .Net Core 8
 
 * Visual Studio 2022
 * .Net Core 8
-* SQL Server 
+* SQL Server
+* Entity Framework Core
 
-'''
+
 
 ### Base de Datos
 
@@ -21,4 +22,4 @@ Contiene las querys en forma ordenada para ejecutar y crear:
 * Constraint's
 * Insert's
 
-'''
+
